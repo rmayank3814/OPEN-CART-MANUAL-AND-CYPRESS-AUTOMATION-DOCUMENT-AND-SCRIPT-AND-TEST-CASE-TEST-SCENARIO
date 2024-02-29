@@ -1,1 +1,5 @@
-"# OPEN-CART-MANUAL-AND-CYPRESS-AUTOMATION-DOCUMENT-AND-SCRIPT-AND-TEST-CASE-TEST-SCENARIO" 
+"# website link: https://demo.opencart.com/"
+" # login credetials email address: mohit13@gmail.com  and password 1235"
+"# open cart front end eccomerce website"
+"# i have checked all functonality and write test plan, Test cases and Test"
+"# i have checked manual and automation tool cypress"
